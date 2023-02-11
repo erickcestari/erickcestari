@@ -1,5 +1,7 @@
 ## Oiii eu sou o Erick Cestari, desenvolvedor de jogos e software!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickcestari)](https://github.com/anuraghazra/github-readme-stats)
+
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
 
