@@ -1,10 +1,10 @@
 ## Oiii eu sou o Erick Cestari, desenvolvedor de jogos e software!
 <div>
   <a href="https://github.com/erickcestari">
-    <img align="left" height = "180em" src="https://github-readme-stats.vercel.app/api?username=erickcestari&show_icons=true&theme=radical" />
+    <img align="center" height = "170em" src="https://github-readme-stats.vercel.app/api?username=erickcestari&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/erickcestari">
-    <img align="right" height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickcestari&layout=compact&theme=radical" />
+    <img align="center" height = "170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickcestari&layout=compact&theme=radical" />
   </a>
 </div>
 <br>
