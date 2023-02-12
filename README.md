@@ -1,13 +1,13 @@
 ## Oiii eu sou o Erick Cestari, desenvolvedor de jogos e software!
 <div>
   <a href="https://github.com/erickcestari">
-    <img align="center" height = "180em" src="https://github-readme-stats.vercel.app/api?username=erickcestari&show_icons=true&theme=radical" />
+    <img align="left" height = "180em" src="https://github-readme-stats.vercel.app/api?username=erickcestari&show_icons=true&theme=radical" />
   </a>
   <a href="https://github.com/erickcestari">
-    <img align="center" height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickcestari&layout=compact&theme=radical" />
+    <img align="right" height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickcestari&layout=compact&theme=radical" />
   </a>
 </div>
-
+<br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
