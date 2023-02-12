@@ -1,11 +1,8 @@
 ## Oiii eu sou o Erick Cestari, desenvolvedor de jogos e software!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickcestari&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickcestari&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickcestari&layout=compact)
-
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickcestari&layout=compact&theme=dracula)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
