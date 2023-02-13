@@ -1,4 +1,11 @@
-## Hii! i'm Erick Cestari, game and software developer!
+## Hi, I'm Erick Cestari, game and software developer from Brazil <img height = "20em" src="https://em-content.zobj.net/thumbs/120/google/350/flag-brazil_1f1e7-1f1f7.png"></img>!
+
+**About me**
+    
+    😀 - 17 years old;
+    📚 - IT technician and studying information systems;
+    🌱 - I'm currently learning ReactJS and Unity;
+
 <div>
   <a href="https://github.com/erickcestari">
     <img align="center" height = "170em" src="https://github-readme-stats.vercel.app/api?username=erickcestari&show_icons=true&theme=radical" />
@@ -16,6 +23,8 @@
   <img align="center" alt="Erick-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Erick-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Erick-GameMakerStudio2" height="30" width="40" src="https://www.svgrepo.com/show/373618/gamemaker2.svg" />
+  <img align="center" alt="Erick-Unity" height="40" width="40" src="https://img.icons8.com/nolan/256/unity.png" />
+
   
   <img align="right" alt="Erick-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/743537404929114155/1073791231701827584/image0.gif">
 </div>
