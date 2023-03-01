@@ -2,7 +2,7 @@
 
 **About me**
     
-    😀 - 17 years old;
+    😀 - 18 years old;
     📚 - IT technician and studying information systems;
     🌱 - I'm currently learning ReactJS and Unity;
 
