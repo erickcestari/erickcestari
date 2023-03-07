@@ -4,7 +4,7 @@
     
     😀 - 18 years old;
     📚 - IT technician and studying information systems;
-    🌱 - I'm currently learning ReactJS and Unity;
+    🌱 - I'm currently learning ReactJS and NodeJS;
 
 <div>
   <a href="https://github.com/erickcestari">
