@@ -24,6 +24,7 @@
   <img align="center" alt="Erick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Erick-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Erick-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" alt="Erick-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>  
   <img align="center" alt="Erick-GameMakerStudio2" height="30" width="40" src="https://www.svgrepo.com/show/373618/gamemaker2.svg"/>
   <img align="center" alt="Erick-Unity" height="40" width="40" src="https://img.icons8.com/nolan/256/unity.png"/>
   
