@@ -1,11 +1,11 @@
 ## Hi, I'm Erick Cestari, software developer from Brazil 🐱‍👤 <img height = "20em" src="https://em-content.zobj.net/thumbs/120/google/350/flag-brazil_1f1e7-1f1f7.png"></img>!
 
-**About me**
-    
-    😀 - 18 years old;
-    📚 - IT technician and studying information systems;
-    🌱 - I'm currently learning ReactJS, NodeJS and Typescript;
-    👨‍💻 - Working as a dev at BrBit Sistemas;
+**About me:**
+
+<h5>😀 - 18 years old;</h5>
+<h5>📚 - IT technician and studying information systems;</h5>
+<h5>🌱 - I'm currently learning ReactJS, NodeJS and Typescript;</h5>
+<h5>👨‍💻 - Working as a dev at BrBit Sistemas;</h5>
 
 <div>
   <a href="https://github.com/erickcestari">
