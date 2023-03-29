@@ -48,3 +48,4 @@
 </div>
 
 <h3>More About Me: https://erickcestari-portfolio.vercel.app/</h3>
+![](https://komarev.com/ghpvc/?username=erickcestari)
