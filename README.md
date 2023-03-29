@@ -5,6 +5,7 @@
     😀 - 18 years old;
     📚 - IT technician and studying information systems;
     🌱 - I'm currently learning ReactJS, NodeJS and Typescript;
+    👨‍💻 - I'm currently working at BrBit Sistemas;
 
 <div>
   <a href="https://github.com/erickcestari">
