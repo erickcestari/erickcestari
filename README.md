@@ -2,10 +2,10 @@
 
 **About me:**
 
-<h5>😀 - 18 years old;</h5>
-<h5>📚 - IT technician and studying information systems;</h5>
-<h5>🌱 - I'm currently learning ReactJS, NodeJS and Typescript;</h5>
-<h5>👨‍💻 - Working as a dev at BrBit Sistemas;</h5>
+<h4>😀 - 18 years old;</h4>
+<h4>📚 - IT technician and studying information systems;</h4>
+<h4>🌱 - I'm currently learning ReactJS, NodeJS and Typescript;</h4>
+<h4>👨‍💻 - Working as a dev at BrBit Sistemas;</h4>
 
 <div>
   <a href="https://github.com/erickcestari">
