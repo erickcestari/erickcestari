@@ -50,3 +50,5 @@
 <h3>More About Me: https://erickcestari-portfolio.vercel.app/</h3>
 
 <img>![](https://komarev.com/ghpvc/?username=erickcestari)</img>
+
+![snake gif](https://github.com/erickcestari/erickcestari/blob/output/github-contribution-grid-snake.svg)
