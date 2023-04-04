@@ -4,7 +4,7 @@
 
 <h4>😀 - 18 years old;</h4>
 <h4>📚 - IT technician and studying information systems;</h4>
-<h4>🌱 - I'm currently learning ReactJS, NodeJS and Typescript;</h4>
+<h4>🌱 - I'm currently learning ReactJS, NextJS and Typescript;</h4>
 <h4>👨‍💻 - Working as a dev at BrBit Sistemas;</h4>
 
 <div>
