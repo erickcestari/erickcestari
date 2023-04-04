@@ -38,7 +38,7 @@
     
     
   
-  <img align="right" alt="Erick-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/743537404929114155/1073791231701827584/image0.gif">
+  <img align="right" alt="Erick-pic" height="170" width="170" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/743537404929114155/1073791231701827584/image0.gif">
 </div>
   
   ##
