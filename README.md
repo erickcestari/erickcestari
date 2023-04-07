@@ -38,7 +38,8 @@
     
     
   
-  <img align="right" alt="Erick-pic" height="190" width="190" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/743537404929114155/1073791231701827584/image0.gif">
+  <img align="right" alt="Erick-pic" height="190" width="190" style="border-radius:50px;" src="https://media2.giphy.com/media/ptqAPgghLtHOa0SLJS/giphy.gif?cid=ecf05e478hg36ke6qcson11g1yp1qe6gzr2w39njweltvxev&rid=giphy.gif&ct=g">
+  
 </div>
   
   ##
