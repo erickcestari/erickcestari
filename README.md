@@ -17,6 +17,7 @@
 </div>
 <br>
 <div style="display: inline_block"><br>
+  
   <img align="center" alt="Erick-Typescript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   <img align="center" alt="Erick-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Erick-NextJs" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
@@ -27,20 +28,14 @@
   <img align="center" alt="Erick-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Erick-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
+  <img align="center" alt="Erick-Vercel" height="30" width="30" src="https://www.svgrepo.com/show/361653/vercel-logo.svg"/>
   <img align="center" alt="Erick-Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Erick-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Erick-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" alt="Erick-Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
+  <img align="center" alt="Erick-Firebase" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
   
   <img align="center" alt="Erick-MySql" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img align="center" alt="Erick-PostGreSql" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> 
-  <img align="center" alt="Erick-GameMakerStudio2" height="30" width="30" src="https://www.svgrepo.com/show/373618/gamemaker2.svg"/>
-  <img align="center" alt="Erick-Unity" height="30" width="30" src="https://img.icons8.com/nolan/256/unity.png"/>
-  
-  
-  
-    
-    
+  <img align="center" alt="Erick-GameMakerStudio2" height="30" width="30"  src="https://www.svgrepo.com/show/373618/gamemaker2.svg"/>
   
   <img align="right" alt="Erick-pic" height="190" width="190" style="border-radius:50px;" src="https://media2.giphy.com/media/ptqAPgghLtHOa0SLJS/giphy.gif?cid=ecf05e478hg36ke6qcson11g1yp1qe6gzr2w39njweltvxev&rid=giphy.gif&ct=g">
   
