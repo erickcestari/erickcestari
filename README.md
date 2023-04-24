@@ -24,7 +24,8 @@
   <img align="center" alt="Erick-NodeJs" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   
   <img align="center" alt="Erick-ReactJs" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img align="center" alt="Erick-CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Erick-Tailwind" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Erick-Sass/Scss" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Erick-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Erick-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
@@ -38,6 +39,8 @@
   <img align="center" alt="Erick-GameMakerStudio2" height="30" width="30"  src="https://www.svgrepo.com/show/373618/gamemaker2.svg"/>
   
   <img align="right" alt="Erick-pic" height="190" width="190" style="border-radius:50px;" src="https://media2.giphy.com/media/ptqAPgghLtHOa0SLJS/giphy.gif?cid=ecf05e478hg36ke6qcson11g1yp1qe6gzr2w39njweltvxev&rid=giphy.gif&ct=g">
+  
+  
   
 </div>
   
