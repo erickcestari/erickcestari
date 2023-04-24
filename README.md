@@ -7,14 +7,6 @@
 <h4>🌱 - I'm currently learning ReactJS, NextJS and Typescript;</h4>
 <h4>👨‍💻 - Working as a dev at BrBit Sistemas;</h4>
 
-<div>
-  <a href="https://github.com/erickcestari">
-    <img align="center" height = "170em" widht='300px' src="https://readmestats.999857.xyz/api?username=erickcestari&show_icons=true&theme=cobalt&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/erickcestari">
-    <img align="center" height = "170em"src="https://readmestats.999857.xyz/api/top-langs/?username=erickcestari&layout=compact&theme=cobalt" />
-  </a>
-</div>
 <br>
 <div style="display: inline_block"><br>
   
@@ -40,8 +32,6 @@
   
   <img align="right" alt="Erick-pic" height="190" width="190" style="border-radius:50px;" src="https://media2.giphy.com/media/ptqAPgghLtHOa0SLJS/giphy.gif?cid=ecf05e478hg36ke6qcson11g1yp1qe6gzr2w39njweltvxev&rid=giphy.gif&ct=g">
   
-  
-  
 </div>
   
   ##
@@ -56,5 +46,14 @@
 <h3>More About Me: https://erickcestari-portfolio.vercel.app/</h3>
 
 <img>![](https://komarev.com/ghpvc/?username=erickcestari)</img>
+
+<div>
+  <a href="https://github.com/erickcestari">
+    <img align="center" height = "170em" widht='300px' src="https://readmestats.999857.xyz/api?username=erickcestari&show_icons=true&theme=cobalt&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/erickcestari">
+    <img align="center" height = "170em"src="https://readmestats.999857.xyz/api/top-langs/?username=erickcestari&layout=compact&theme=cobalt" />
+  </a>
+</div>
 
 ![snake gif](https://github.com/erickcestari/erickcestari/blob/output/github-contribution-grid-snake.svg)
