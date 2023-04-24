@@ -52,10 +52,10 @@
 
 <div align="center">
   <a href="https://github.com/erickcestari">
-    <img align="center" height = "170em" widht='300px' src="https://readmestats.999857.xyz/api?username=erickcestari&show_icons=true&theme=cobalt&include_all_commits=true" />
+    <img align="center" height = "160em" src="https://readmestats.999857.xyz/api?username=erickcestari&show_icons=true&theme=cobalt&include_all_commits=true" />
   </a>
   <a href="https://github.com/erickcestari">
-    <img align="center" height = "170em"src="https://readmestats.999857.xyz/api/top-langs/?username=erickcestari&layout=compact&theme=cobalt" />
+    <img align="center" height = "160em"src="https://readmestats.999857.xyz/api/top-langs/?username=erickcestari&layout=compact&theme=cobalt" />
   </a>
 </div>
 
