@@ -4,7 +4,7 @@
 </h3>
 
 ## **🕵️‍♂️ About me:**
-* 18 years old;
+* 18 years old ;
 * IT technician and studying information systems ;
 * I'm currently learning ReactJS, NextJS and Typescript ;
 * Working as a dev at BrBit Sistemas ;
