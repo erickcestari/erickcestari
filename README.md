@@ -47,8 +47,7 @@
   
 </div>
 
-<h4 align="center">➡More About Me: https://erickcestari-portfolio.vercel.app/</h4>
-
+  <h4 align="center"><a href="https://erickcestari-portfolio.vercel.ap" target="_blank">➡More About Me</a></h4>
 
 <div align="center">
   <a href="https://github.com/erickcestari">
