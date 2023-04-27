@@ -1,7 +1,11 @@
-<h3 align="center">
-  👋 Hi, I'm Erick Cestari, software developer from Brazil  <img height = "20em" src="https://em-content.zobj.net/thumbs/120/google/350/flag-brazil_1f1e7-1f1f7.png"></img>
+<div align="center">
+  <h3>
+    👋 Hi, I'm Erick Cestari, Software Developer From Brazil<img height = "20em" src="https://em-content.zobj.net/thumbs/120/google/350/flag-brazil_1f1e7-1f1f7.png"></img>
+  </h3>
+
+   <h4>But I Look Like From Another Planet 🪐</h4>
   <hr>
-</h3>
+</div>
 
 ## **🕵️‍♂️ About me:**
 * 18 years old ;
