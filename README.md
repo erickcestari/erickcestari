@@ -32,7 +32,7 @@
   <br><br>
   
   <img align="center" alt="Erick-Fastify" height="40" width="40" src="https://www.svgrepo.com/show/353729/fastify-icon.svg"/>
-  <img align="center" alt="Erick-Prisma" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/prisma-3.svg"/>
+  <img align="center" alt="Erick-Prisma" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_prisma_icon_130444.png"/>
   
   <img align="center" alt="Erick-NodeJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img align="center" alt="Erick-Vercel" height="40" width="40" src="https://www.svgrepo.com/show/361653/vercel-logo.svg"/>
