@@ -58,9 +58,9 @@
   <a href="https://www.linkedin.com/in/erick-cestari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## 🐲 My Github Status:
+<h4 align="center"><a href="https://erickcestari-portfolio.vercel.app" target="_blank">➡More About Me</a></h4>
 
-  <h4 align="center"><a href="https://erickcestari-portfolio.vercel.app" target="_blank">➡More About Me</a></h4>
+## 🐲 My Github Status:
 
 <div align="center">
   <a href="https://github.com/erickcestari">
