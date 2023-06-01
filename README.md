@@ -43,6 +43,7 @@
   <img align="center" alt="Erick-MySql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img align="center" alt="Erick-PostGreSql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> 
   <img align="center" alt="Erick-GameMakerStudio2" height="40" width="40"  src="https://www.svgrepo.com/show/373618/gamemaker2.svg"/>
+  <img align="center" alt="Erick-GameMakerStudio2" height="40" width="40"  src="https://about.gitlab.com/images/press/press-kit-icon.svg"/>
   
 </div>
 
