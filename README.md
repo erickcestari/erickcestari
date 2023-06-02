@@ -32,6 +32,7 @@
   
   <img align="center" alt="Erick-Expo" height="40" width="40" src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png"/>
   <img align="center" alt="Erick-ThreeJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg"/>
+  <img align="center" alt="Erick-ThreeJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
   <br><br>
   
   <img align="center" alt="Erick-Fastify" height="40" width="40" src="https://www.svgrepo.com/show/353729/fastify-icon.svg"/>
