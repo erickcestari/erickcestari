@@ -8,11 +8,14 @@
 </div>
 
 ## **🕵️‍♂️ About me:**
+```TS
 * 18 years old ;
 * IT technician and studying information systems ;
 * I'm currently learning React Native, Expo, Prisma and Fastify ;
 * Working as a dev at BrBit Sistemas ;
-* Reading <a href="https://natureofcode.com/">The Nature Of Code </a> and <a href="https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634">Learning Algorithms</a> ;
+* Reading The Nature Of Code and Learning Algorithms ;
+```
+
 
 ## **💻 My Skills:**
 <div style="display: inline_block" align="center">
