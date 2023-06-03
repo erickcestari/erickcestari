@@ -68,7 +68,7 @@
 ## 🐲 My Github Status:
 
 <div align="center">
-   <img align="center" height = "400em" src="https://simple-github-stats-3tx78segz-erickcestari.vercel.app/?user=erickcestari&date=02/01/2020" />
+   <img align="center" src="https://simple-github-stats-3tx78segz-erickcestari.vercel.app/?user=erickcestari&date=02/01/2020" />
 </div>
 
 
