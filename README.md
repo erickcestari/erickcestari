@@ -68,12 +68,7 @@
 ## 🐲 My Github Status:
 
 <div align="center">
-  <a href="https://github.com/erickcestari">
-    <img align="center" height = "160em" src="https://readmestats.999857.xyz/api?username=erickcestari&show_icons=true&theme=cobalt&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/erickcestari">
-    <img align="center" height = "160em"src="https://readmestats.999857.xyz/api/top-langs/?username=erickcestari&layout=compact&theme=cobalt" />
-  </a>
+   <img align="center" height = "400em" src="https://simple-github-stats-3tx78segz-erickcestari.vercel.app/?user=erickcestari&date=02/01/2020" />
 </div>
 
 
