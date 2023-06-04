@@ -50,10 +50,13 @@
   <img align="center" alt="Erick-GameMakerStudio2" height="40" width="40"  src="https://about.gitlab.com/images/press/press-kit-icon.svg"/>
   
 </div>
-
 <hr>
- 
-<br>
+
+## 🐲 My Github Status:
+
+<div align="center">
+   <img align="center" src="https://simple-github-stats.vercel.app/?user=erickcestari&date=02/01/2020" />
+</div>
 
 <h3>🔎 Where You Can Find Me:</h3>
 
@@ -65,11 +68,7 @@
 
 <h4 align="center"><a href="https://erickcestari-portfolio.vercel.app" target="_blank">➡More About Me</a></h4>
 
-## 🐲 My Github Status:
 
-<div align="center">
-   <img align="center" src="https://simple-github-stats.vercel.app/?user=erickcestari&date=02/01/2020" />
-</div>
 
 
 <img align="center">![snake gif](https://github.com/erickcestari/erickcestari/blob/output/github-contribution-grid-snake.svg)</img>
