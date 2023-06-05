@@ -52,7 +52,7 @@
 </div>
 <hr>
 
-## 🐲 My Github Status:
+## 🐲 My Github Stats:
 
 <div align="center">
    <img align="center" src="https://simple-github-stats.vercel.app/?user=erickcestari&date=02/01/2020" />
