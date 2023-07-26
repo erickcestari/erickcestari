@@ -1,6 +1,6 @@
 <div align="center">
   <h3>
-    👋 Hi, I'm Erick Cestari, Software Developer From Brazil<img height = "20em" src="https://em-content.zobj.net/thumbs/120/google/350/flag-brazil_1f1e7-1f1f7.png"></img>
+    👋 Hi, I'm Erick Cestari, a Full Stack Developer From Brazil<img height = "20em" src="https://em-content.zobj.net/thumbs/120/google/350/flag-brazil_1f1e7-1f1f7.png"></img>
   </h3>
 
    <h4>But I Look Like From Another Planet 🪐</h4>
