@@ -10,9 +10,9 @@
 ## **🕵️‍♂️ About me:**
 ```TS
 * 18 years old;
-* IT technician and studying information systems;
-* I'm currently learning React Native, Expo, Prisma and Fastify;
-* Working as a dev at BrBit Sistemas;
+* Working as a developer at BrBit Sistemas;
+* Computer technician and studying information systems;
+* I am currently learning React Native, Expo, Prisma and Fastify;
 * Reading The Nature Of Code and Learning Algorithms;
 ```
 
