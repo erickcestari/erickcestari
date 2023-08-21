@@ -9,11 +9,20 @@
 
 ## **🕵️‍♂️ About me:**
 ```TS
-* 18 years old;
-* Working as a developer at BrBit Sistemas;
-* Computer technician and studying information systems;
-* I am currently learning React Native, Expo, Prisma and Fastify;
-* Reading The Nature Of Code and Learning Algorithms;
+interface ErickInterface {
+  age: string
+  work: string
+  education: string
+  learning: string
+  reading: string
+}
+const erick: ErickInterface = {
+  age: "18 years old",
+  work: "Working as a developer at BrBit Sistemas",
+  education: "Computer technician and studying information systems",
+  learning: "I am currently learning React Native, Expo, Prisma and Fastify",
+  reading: "Reading The Nature Of Code and Learning Algorithms"
+}
 ```
 
 
