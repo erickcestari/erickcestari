@@ -15,14 +15,15 @@ interface ErickInterface {
   education: string
   learning: string
   reading: string
-}
+};
+
 const erick: ErickInterface = {
   age: "18 years old",
   work: "Working as a developer at BrBit Sistemas",
   education: "Computer technician and studying information systems",
   learning: "I am currently learning React Native, Expo, Prisma and Fastify",
   reading: "Reading The Nature Of Code and Learning Algorithms"
-}
+};
 ```
 
 
