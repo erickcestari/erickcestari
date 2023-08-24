@@ -12,9 +12,9 @@
 interface ErickInterface {
   age: string
   work: string
-  education: string
-  learning: string
-  reading: string
+  learning: string[]
+  education: string[]
+  reading: string[]
 };
 
 const erick: ErickInterface = {
