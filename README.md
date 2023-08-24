@@ -18,11 +18,11 @@ interface ErickInterface {
 };
 
 const erick: ErickInterface = {
-  age: "18 years old",
-  work: "Working as a developer at BrBit Sistemas",
-  education: "Computer technician and studying information systems",
-  learning: "I am currently learning React Native, Expo, Prisma and Fastify",
-  reading: "Reading The Nature Of Code and Learning Algorithms"
+  age: "18 years",
+  work: "A fullStack developer at BrBit Sistemas",
+  learning: ["Socket.io", "Flutter"],
+  education: ["Computer technician", "studying information systems"],
+  reading: ["The Nature Of Code", "Learning Algorithms"]
 };
 ```
 
