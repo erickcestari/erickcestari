@@ -28,7 +28,7 @@ const erick: ErickInterface = {
 <br>
 
 ## **💻 My skills:**
-<div style="display: flex; flex-wrap: wrap; justify-content: center;" align="center">
+<div style="display: inline-flex; flex-wrap: wrap; justify-content: center;" align="center">
   <!-- TypeScript -->
   <div style="margin: 10px;">
     <img align="center" alt="Erick-Typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
