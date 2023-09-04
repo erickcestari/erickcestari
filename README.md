@@ -43,6 +43,7 @@ const erick: ErickInterface = {
   
   <img align="center" alt="Erick-Expo" height="40" width="40" src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png"/>
   <img align="center" alt="Erick-ThreeJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg"/>
+  <img align="center" alt="Erick-Vitest" height="40" width="40" src="https://api.iconify.design/logos/vitest.svg" />
   <br><br>
   
   <img align="center" alt="Erick-NodeJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
@@ -58,6 +59,7 @@ const erick: ErickInterface = {
   <img align="center" alt="Erick-Vercel" height="40" width="40" src="https://www.svgrepo.com/show/361653/vercel-logo.svg"/>
   <img align="center" alt="Erick-GitLab" height="40" width="40"  src="https://about.gitlab.com/images/press/press-kit-icon.svg"/>
   <img align="center" alt="Erick-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Erick-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
   
 </div>
 </div>
