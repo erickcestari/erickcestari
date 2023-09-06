@@ -31,29 +31,29 @@ const erick: ErickInterface = {
 <div style="display: inline_block" align="center">
  <div style="display: inline_block" align="center">
   <br>
-  <img align="center" alt="Erick-Typescript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img align="center" alt="Erick-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Erick-NextJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-  <img align="center" alt="Erick-ReactJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img align="center" alt="Erick-Tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="center" alt="Erick-Sass/Scss" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="Erick-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Erick-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Erick-ThreeJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg"/>
+  <img align="center" alt="Erick-Typescript" height="40" width="40" src="https://skillicons.dev/icons?i=typescript"/>
+  <img align="center" alt="Erick-Js" height="40" width="40" src="https://skillicons.dev/icons?i=javascript">
+  <img align="center" alt="Erick-NextJs" height="40" width="40" src="https://skillicons.dev/icons?i=nextjs"/>
+  <img align="center" alt="Erick-ReactJs" height="40" width="40" src="https://skillicons.dev/icons?i=react"/>
+  <img align="center" alt="Erick-Tailwind" height="40" width="40" src="https://skillicons.dev/icons?i=tailwind">
+  <img align="center" alt="Erick-Sass/Scss" height="40" width="40" src="https://skillicons.dev/icons?i=sass">
+  <img align="center" alt="Erick-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=css">
+  <img align="center" alt="Erick-HTML" height="40" width="40" src="https://skillicons.dev/icons?i=html">
+  <img align="center" alt="Erick-ThreeJs" height="40" width="40" src="https://skillicons.dev/icons?i=threejs"/>
   <img align="center" alt="Erick-Vitest" height="40" width="40" src="https://api.iconify.design/logos/vitest.svg" />
   <br><br>
   
-  <img align="center" alt="Erick-NodeJs" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img align="center" alt="Erick-Express" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+  <img align="center" alt="Erick-NodeJs" height="40" width="40" src="https://skillicons.dev/icons?i=nodejs"/>
+  <img align="center" alt="Erick-Express" height="40" width="40" src="https://skillicons.dev/icons?i=express"/>
   <img align="center" alt="Erick-Fastify" height="40" width="40" src="https://www.svgrepo.com/show/353729/fastify-icon.svg"/>
-  <img align="center" alt="Erick-Prisma" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_prisma_icon_130444.png"/>
-  <img align="center" alt="Erick-Firebase" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-  <img align="center" alt="Erick-MySql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img align="center" alt="Erick-PostGreSql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-  <img align="center" alt="Erick-Vercel" height="40" width="40" src="https://www.svgrepo.com/show/361653/vercel-logo.svg"/>
-  <img align="center" alt="Erick-GitLab" height="40" width="40"  src="https://about.gitlab.com/images/press/press-kit-icon.svg"/>
-  <img align="center" alt="Erick-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Erick-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+  <img align="center" alt="Erick-Prisma" height="40" width="40" src="https://skillicons.dev/icons?i=prisma"/>
+  <img align="center" alt="Erick-Firebase" height="40" width="40" src="https://skillicons.dev/icons?i=firebase"/>
+  <img align="center" alt="Erick-MySql" height="40" width="40" src="https://skillicons.dev/icons?i=mysql"/>
+  <img align="center" alt="Erick-PostGreSql" height="40" width="40" src="https://skillicons.dev/icons?i=postgresql"/>
+  <img align="center" alt="Erick-Vercel" height="40" width="40" src="https://skillicons.dev/icons?i=vercel"/>
+  <img align="center" alt="Erick-GitLab" height="40" width="40"  src="https://skillicons.dev/icons?i=gitlab"/>
+  <img align="center" alt="Erick-Git" height="40" width="40" src="https://skillicons.dev/icons?i=git">
+  <img align="center" alt="Erick-Docker" height="40" width="40" src="https://skillicons.dev/icons?i=docker" />
   
 </div>
 </div>
