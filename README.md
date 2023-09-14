@@ -42,9 +42,7 @@ const erick: ErickInterface = {
   <img align="center" alt="Erick-ThreeJs" height="40" width="40" src="https://skillicons.dev/icons?i=threejs"/>
   <img align="center" alt="Erick-GitLab" height="40" width="40"  src="https://skillicons.dev/icons?i=gitlab"/>
   <img align="center" alt="Erick-Git" height="40" width="40" src="https://skillicons.dev/icons?i=git">
-  
   <br><br>
-  
   <img align="center" alt="Erick-NodeJs" height="40" width="40" src="https://skillicons.dev/icons?i=nodejs"/>
   <img align="center" alt="Erick-Express" height="40" width="40" src="https://skillicons.dev/icons?i=express"/>
   <img align="center" alt="Erick-Fastify" height="40" width="40" src="https://www.svgrepo.com/show/353729/fastify-icon.svg"/>
