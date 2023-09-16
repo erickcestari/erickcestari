@@ -33,6 +33,7 @@ const erick: ErickInterface = {
   <br>
   <img align="center" alt="Erick-Typescript" height="40" width="40" src="https://skillicons.dev/icons?i=typescript"/>
   <img align="center" alt="Erick-Js" height="40" width="40" src="https://skillicons.dev/icons?i=javascript">
+   <img align="center" alt="Erick-Js" height="40" width="40" src="https://skillicons.dev/icons?i=rust">
   <img align="center" alt="Erick-NextJs" height="40" width="40" src="https://skillicons.dev/icons?i=nextjs"/>
   <img align="center" alt="Erick-ReactJs" height="40" width="40" src="https://skillicons.dev/icons?i=react"/>
   <img align="center" alt="Erick-Tailwind" height="40" width="40" src="https://skillicons.dev/icons?i=tailwind">
