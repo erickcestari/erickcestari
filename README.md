@@ -2,7 +2,6 @@
   <h3>
     👋 Hi, I'm Erick Cestari, a Full Stack Developer From Brazil
   </h3>
-   <h4>But I Look Like From Another Planet 🪐</h4>
 </div>
 
 ## **🕵️‍♂️ About me:**
