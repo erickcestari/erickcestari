@@ -19,7 +19,7 @@ interface ErickInterface {
 const erick: ErickInterface = {
   age: "18 years",
   work: "A fullStack developer at BrBit Sistemas",
-  learning: ["Socket.io", "Flutter"],
+  learning: ["Rust", "Flutter"],
   education: ["Computer technician", "Studying information systems"],
   reading: ["The Nature Of Code", "Learning Algorithms"],
   mainLanguages: ["Typescript" , "Javascript"]
