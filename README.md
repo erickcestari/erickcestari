@@ -6,16 +6,7 @@
 
 ## **🕵️‍♂️ About me:**
 ```TS
-interface ErickInterface {
-  age: string
-  work: string
-  learning: string[]
-  education: string[]
-  reading: string[]
-  mainLanguages: string[]
-};
-
-const erick: ErickInterface = {
+const erick: Record<string, any> = {
   age: "18 years",
   work: "A fullStack developer at BrBit Sistemas",
   learning: ["Rust", "Flutter"],
