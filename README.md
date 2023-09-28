@@ -6,7 +6,7 @@
 
 ## **🕵️‍♂️ About me:**
 ```TS
-const erick: Record<string, any> = {
+const erick: Record<string, string | string[]> = {
   age: "18 years",
   work: "A fullStack developer at BrBit Sistemas",
   learning: ["Rust", "Flutter"],
