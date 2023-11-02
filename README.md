@@ -23,32 +23,32 @@ const erick: Record<string, string | string[]> = {
   <br>
   <img align="center" alt="Erick-Typescript" height="40" width="40" src="https://skillicons.dev/icons?i=typescript"/>
   <img align="center" alt="Erick-Js" height="40" width="40" src="https://skillicons.dev/icons?i=javascript">
-   <img align="center" alt="Erick-Rust" height="40" width="40" src="https://skillicons.dev/icons?i=go">
+  <img align="center" alt="Erick-Go" height="40" width="40" src="https://skillicons.dev/icons?i=go">
   <img align="center" alt="Erick-Rust" height="40" width="40" src="https://skillicons.dev/icons?i=rust">
   <img align="center" alt="Erick-C#" height="40" width="40" src="https://skillicons.dev/icons?i=cs"/>
+  <img align="center" alt="Erick-DotNet" height="40" width="40" src="https://skillicons.dev/icons?i=dotnet"/>
   <img align="center" alt="Erick-NextJs" height="40" width="40" src="https://skillicons.dev/icons?i=nextjs"/>
+  <img align="center" alt="Erick-Redux" height="40" width="40" src="https://skillicons.dev/icons?i=redux"/>
   <img align="center" alt="Erick-ReactJs" height="40" width="40" src="https://skillicons.dev/icons?i=react"/>
   <img align="center" alt="Erick-Tailwind" height="40" width="40" src="https://skillicons.dev/icons?i=tailwind">
   <img align="center" alt="Erick-Sass/Scss" height="40" width="40" src="https://skillicons.dev/icons?i=sass">
-  <img align="center" alt="Erick-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=css">
-  <img align="center" alt="Erick-HTML" height="40" width="40" src="https://skillicons.dev/icons?i=html">
   <img align="center" alt="Erick-ThreeJs" height="40" width="40" src="https://skillicons.dev/icons?i=threejs"/>
-  <img align="center" alt="Erick-GitLab" height="40" width="40"  src="https://skillicons.dev/icons?i=gitlab"/>
   <img align="center" alt="Erick-Git" height="40" width="40" src="https://skillicons.dev/icons?i=git">
+  <img align="center" alt="Erick-Github" height="40" width="40" src="https://skillicons.dev/icons?i=github">
   <br><br>
-  <img align="center" alt="Erick-DotNet" height="40" width="40" src="https://skillicons.dev/icons?i=dotnet"/>
   <img align="center" alt="Erick-NodeJs" height="40" width="40" src="https://skillicons.dev/icons?i=nodejs"/>
   <img align="center" alt="Erick-Express" height="40" width="40" src="https://skillicons.dev/icons?i=express"/>
   <img align="center" alt="Erick-Fastify" height="40" width="40" src="https://www.svgrepo.com/show/353729/fastify-icon.svg"/>
   <img align="center" alt="Erick-Vercel" height="40" width="40" src="https://skillicons.dev/icons?i=nest"/>
+  <img align="center" alt="Erick-Vitest" height="40" width="40" src="https://api.iconify.design/logos/vitest.svg" />
   <img align="center" alt="Erick-Prisma" height="40" width="40" src="https://skillicons.dev/icons?i=prisma"/>
   <img align="center" alt="Erick-Firebase" height="40" width="40" src="https://skillicons.dev/icons?i=firebase"/>
   <img align="center" alt="Erick-MySql" height="40" width="40" src="https://skillicons.dev/icons?i=mysql"/>
   <img align="center" alt="Erick-PostGreSql" height="40" width="40" src="https://skillicons.dev/icons?i=postgresql"/>
-  <img align="center" alt="Erick-Vitest" height="40" width="40" src="https://api.iconify.design/logos/vitest.svg" />
-  <img align="center" alt="Erick-Vercel" height="40" width="40" src="https://skillicons.dev/icons?i=vercel"/>
   <img align="center" alt="Erick-Docker" height="40" width="40" src="https://skillicons.dev/icons?i=docker" />
-   <img align="center" alt="Erick-Prometheus" height="40" width="40" src="https://skillicons.dev/icons?i=prometheus" />
+  <img align="center" alt="Erick-Prometheus" height="40" width="40" src="https://skillicons.dev/icons?i=prometheus" />
+  <img align="center" alt="Erick-GitLab" height="40" width="40"  src="https://skillicons.dev/icons?i=gitlab"/>
+  <img align="center" alt="Erick-Vercel" height="40" width="40" src="https://skillicons.dev/icons?i=vercel"/>
   <img align="center" alt="Erick-VisualStudioCode" height="40" width="40" src="https://skillicons.dev/icons?i=vscode"/>
   
 </div>
