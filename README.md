@@ -12,7 +12,7 @@ const erick: Record<string, string | string[]> = {
   reading: ["The Nature Of Code", "Learning Algorithms"],
   learning: ["Rust", "Go"],
   education: ["Computer technician", "Studying information systems"],
-  mainLanguages: ["Typescript" , "Javascript", "C#"]
+  mainLanguages: ["Typescript" , "Javascript", "C#", "Go"]
 };
 ```
 <br>
