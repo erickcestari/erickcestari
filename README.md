@@ -70,7 +70,4 @@ const erick: Record<string, string | string[]> = {
 <div align="center">
    <img align="center" src="https://simple-github-stats.vercel.app/?user=erickcestari&date=02/01/2020" />
 </div>
-<details>
-
-
-
+</details>
