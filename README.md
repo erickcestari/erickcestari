@@ -39,7 +39,7 @@ const erick: Record<string, string | string[]> = {
   <img align="center" alt="Erick-NodeJs" height="40" width="40" src="https://skillicons.dev/icons?i=nodejs"/>
   <img align="center" alt="Erick-Express" height="40" width="40" src="https://skillicons.dev/icons?i=express"/>
   <img align="center" alt="Erick-Fastify" height="40" width="40" src="https://www.svgrepo.com/show/353729/fastify-icon.svg"/>
-  <img align="center" alt="Erick-Vercel" height="40" width="40" src="https://skillicons.dev/icons?i=nest"/>
+  <img align="center" alt="Erick-Nest" height="40" width="40" src="https://skillicons.dev/icons?i=nest"/>
   <img align="center" alt="Erick-Vitest" height="40" width="40" src="https://api.iconify.design/logos/vitest.svg" />
   <img align="center" alt="Erick-Prisma" height="40" width="40" src="https://skillicons.dev/icons?i=prisma"/>
   <img align="center" alt="Erick-Firebase" height="40" width="40" src="https://skillicons.dev/icons?i=firebase"/>
@@ -48,6 +48,7 @@ const erick: Record<string, string | string[]> = {
   <img align="center" alt="Erick-Docker" height="40" width="40" src="https://skillicons.dev/icons?i=docker" />
   <img align="center" alt="Erick-Prometheus" height="40" width="40" src="https://skillicons.dev/icons?i=prometheus" />
   <img align="center" alt="Erick-GitLab" height="40" width="40"  src="https://skillicons.dev/icons?i=gitlab"/>
+  <img align="center" alt="Erick-AWS" height="40" width="40" src="https://skillicons.dev/icons?i=aws"/>
   <img align="center" alt="Erick-Vercel" height="40" width="40" src="https://skillicons.dev/icons?i=vercel"/>
   <img align="center" alt="Erick-VisualStudioCode" height="40" width="40" src="https://skillicons.dev/icons?i=vscode"/>
   
