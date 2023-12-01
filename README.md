@@ -56,6 +56,15 @@ const erick: Record<string, string | string[]> = {
 </details>
 
 <details>
+  <summary>Github Stats 🐲</summary>
+<div align="center">
+   <img align="center" src="https://simple-github-stats.vercel.app/?user=erickcestari&date=02/01/2020" />
+</div>
+  
+  [^ This Github Stats is one of my projects!](https://github.com/erickcestari/SimpleGithubStats)
+</details>
+
+<details>
   <summary>Contacts 🔎</summary>
 <div align="center"> 
   <a href="https://instagram.com/erick_cestari" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -63,13 +72,4 @@ const erick: Record<string, string | string[]> = {
   <a href="https://www.linkedin.com/in/erick-cestari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br>
-</details>
-
-<details>
-  <summary>Github Stats 🐲</summary>
-<div align="center">
-   <img align="center" src="https://simple-github-stats.vercel.app/?user=erickcestari&date=02/01/2020" />
-</div>
-  
-  [^ This Github Stats is one of my projects!](https://github.com/erickcestari/SimpleGithubStats)
 </details>
