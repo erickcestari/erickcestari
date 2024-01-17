@@ -25,6 +25,7 @@ const erick: Record<string, string | string[]> = {
   <img align="center" alt="Erick-Js" height="40" width="40" src="https://skillicons.dev/icons?i=javascript">
   <img align="center" alt="Erick-Go" height="40" width="40" src="https://skillicons.dev/icons?i=go">
   <img align="center" alt="Erick-Rust" height="40" width="40" src="https://skillicons.dev/icons?i=rust">
+   <img align="center" alt="Erick-Rust" height="40" width="40" src="https://skillicons.dev/icons?i=python">
   <img align="center" alt="Erick-C#" height="40" width="40" src="https://skillicons.dev/icons?i=cs"/>
   <img align="center" alt="Erick-DotNet" height="40" width="40" src="https://skillicons.dev/icons?i=dotnet"/>
   <img align="center" alt="Erick-NextJs" height="40" width="40" src="https://skillicons.dev/icons?i=nextjs"/>
