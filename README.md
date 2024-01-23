@@ -41,7 +41,7 @@ const erick: Record<string, string | string[]> = {
   <img align="center" alt="Erick-Express" height="40" width="40" src="https://skillicons.dev/icons?i=express"/>
   <img align="center" alt="Erick-Fastify" height="40" width="40" src="https://www.svgrepo.com/show/353729/fastify-icon.svg"/>
   <img align="center" alt="Erick-Nest" height="40" width="40" src="https://skillicons.dev/icons?i=nest"/>
-  <img align="center" alt="Erick-Vitest" height="40" width="40" src="https://api.iconify.design/logos/vitest.svg" />
+  <img align="center" alt="Erick-Vitest" height="40" width="40" src="https://skillicons.dev/icons?i=vitest" />
   <img align="center" alt="Erick-Prisma" height="40" width="40" src="https://skillicons.dev/icons?i=prisma"/>
   <img align="center" alt="Erick-Firebase" height="40" width="40" src="https://skillicons.dev/icons?i=firebase"/>
   <img align="center" alt="Erick-MySql" height="40" width="40" src="https://skillicons.dev/icons?i=mysql"/>
