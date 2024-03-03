@@ -7,7 +7,7 @@
 ## **🕵️‍♂️ About me:**
 ```TS
 const erick: Record<string, string | string[]> = {
-  age: "18 years",
+  age: "19 years",
   work: "A fullStack developer at BrBit Sistemas",
   reading: ["crafting interpreter"],
   learning: ["Rust"],
