@@ -44,7 +44,8 @@ const erick: Record<string, string | string[]> = {
   <img align="center" alt="Erick-Prisma" height="40" width="40" src="https://skillicons.dev/icons?i=prisma"/>
   <img align="center" alt="Erick-Firebase" height="40" width="40" src="https://skillicons.dev/icons?i=firebase"/>
   <img align="center" alt="Erick-MySql" height="40" width="40" src="https://skillicons.dev/icons?i=mysql"/>
-  <img align="center" alt="Erick-PostGreSql" height="40" width="40" src="https://skillicons.dev/icons?i=postgresql"/>
+  <img align="center" alt="Erick-PostgreSql" height="40" width="40" src="https://skillicons.dev/icons?i=postgresql"/>
+   <img align="center" alt="Erick-MongoDb" height="40" width="40" src="https://skillicons.dev/icons?i=mongodb"/>
   <img align="center" alt="Erick-Docker" height="40" width="40" src="https://skillicons.dev/icons?i=docker" />
   <img align="center" alt="Erick-Prometheus" height="40" width="40" src="https://skillicons.dev/icons?i=prometheus" />
   <img align="center" alt="Erick-GitLab" height="40" width="40"  src="https://skillicons.dev/icons?i=gitlab"/>
