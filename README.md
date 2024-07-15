@@ -1,6 +1,6 @@
 <div align="center">
   <h3>
-    👋 Hi, I'm Erick Cestari, a Full Stack Developer From Brazil
+    👋 Hi, I'm Erick Cestari, a Full Stack Software Engineer From Brazil
   </h3>
 </div>
 
@@ -8,7 +8,7 @@
 ```TS
 const erick: Record<string, string | string[]> = {
   age: "19 years",
-  work: "A fullStack developer at BrBit Sistemas",
+  work: "A fullStack Software Engineer at BrBit Sistemas",
   reading: ["crafting interpreter", "Designing Data-Intensive Applications"],
   learning: ["Rust"],
   education: ["Computer technician", "Studying information systems"],
