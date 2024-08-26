@@ -5,7 +5,7 @@
 
 
 About me:
-<p>
+<h4>
   
 ```TS
 const erick: Record<string, string | string[]> = {
@@ -17,7 +17,7 @@ const erick: Record<string, string | string[]> = {
   mainLanguages: ["Typescript" , "Javascript", "C#", "Go"]
 };
 ```
-</p>
+</h4>
 <br>
 <details>
   <summary>My Skills</summary>
