@@ -1,10 +1,10 @@
-<div align="center">
-  <h3>
-    👋 Hi, I'm Erick Cestari, a Full Stack Software Engineer From Brazil
-  </h3>
-</div>
+<samp>
 
-## **🕵️‍♂️ About me:**
+
+## Hi, I'm Erick Cestari, a Full Stack Software Engineer
+
+
+About me:
 ```TS
 const erick: Record<string, string | string[]> = {
   age: "19 years",
@@ -17,7 +17,7 @@ const erick: Record<string, string | string[]> = {
 ```
 <br>
 <details>
-  <summary>My Skills ⚡</summary>
+  <summary>My Skills</summary>
 <div style="display: inline_block" align="center">
  <div style="display: inline_block" align="center">
   <br>
@@ -58,7 +58,7 @@ const erick: Record<string, string | string[]> = {
 </details>
 
 <details>
-  <summary>Github Stats 🐲</summary>
+  <summary>Github Stats</summary>
 <div align="center">
    <img align="center" src="https://simple-github-stats.vercel.app/?user=erickcestari&date=02/01/2020" />
 </div>
@@ -67,10 +67,11 @@ const erick: Record<string, string | string[]> = {
 </details>
 
 <details>
-  <summary>Contacts 🔎</summary>
+  <summary>Contacts</summary>
 <div align="center"> 
   <a href = "mailto:erickcestari03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/erick-cestari/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <br>
 </details>
+</samp>
