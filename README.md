@@ -5,6 +5,8 @@
 
 
 About me:
+<h3>
+  
 ```TS
 const erick: Record<string, string | string[]> = {
   age: "19 years",
@@ -15,6 +17,7 @@ const erick: Record<string, string | string[]> = {
   mainLanguages: ["Typescript" , "Javascript", "C#", "Go"]
 };
 ```
+</h3>
 <br>
 <details>
   <summary>My Skills</summary>
