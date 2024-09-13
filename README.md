@@ -12,7 +12,7 @@ const erick: Record<string, string | string[]> = {
   age: "19 years",
   work: "A fullStack Software Engineer at BrBit Sistemas",
   reading: ["Mastering Bitcoin"],
-  learning: ["Rust"],
+  learning: ["Rust", "blockchain"],
   education: ["Computer technician", "Studying information systems"],
   mainLanguages: ["Typescript" , "Javascript", "C#", "Go"]
 };
