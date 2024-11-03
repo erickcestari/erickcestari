@@ -14,7 +14,7 @@ const erick: Record<string, string | string[]> = {
   reading: ["Mastering Bitcoin"],
   learning: ["blockchain"],
   education: ["Computer technician", "Studying information systems"],
-  mainLanguages: ["Typescript" , "Javascript", "C#", "Go"]
+  mainLanguages: ["Typescript" , "Javascript", "Rust", "C#", "Go"]
 };
 ```
 </h3>
