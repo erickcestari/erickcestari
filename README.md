@@ -28,7 +28,7 @@ const erick: Record<string, string | string[]> = {
   <img align="center" alt="Erick-Js" height="40" width="40" src="https://skillicons.dev/icons?i=javascript">
   <img align="center" alt="Erick-Go" height="40" width="40" src="https://skillicons.dev/icons?i=go">
   <img align="center" alt="Erick-Rust" height="40" width="40" src="https://skillicons.dev/icons?i=rust">
-   <img align="center" alt="Erick-Rust" height="40" width="40" src="https://skillicons.dev/icons?i=python">
+  <img align="center" alt="Erick-Rust" height="40" width="40" src="https://skillicons.dev/icons?i=python">
   <img align="center" alt="Erick-C#" height="40" width="40" src="https://skillicons.dev/icons?i=cs"/>
   <img align="center" alt="Erick-DotNet" height="40" width="40" src="https://skillicons.dev/icons?i=dotnet"/>
   <img align="center" alt="Erick-NextJs" height="40" width="40" src="https://skillicons.dev/icons?i=nextjs"/>
@@ -39,6 +39,7 @@ const erick: Record<string, string | string[]> = {
   <img align="center" alt="Erick-ThreeJs" height="40" width="40" src="https://skillicons.dev/icons?i=threejs"/>
   <img align="center" alt="Erick-Git" height="40" width="40" src="https://skillicons.dev/icons?i=git">
   <img align="center" alt="Erick-Github" height="40" width="40" src="https://skillicons.dev/icons?i=github">
+  <img align="center" alt="Erick-RabbitMQ" height="40" width="40" src="https://skillicons.dev/icons?i=rabbitmq">
   <br><br>
   <img align="center" alt="Erick-NodeJs" height="40" width="40" src="https://skillicons.dev/icons?i=nodejs"/>
   <img align="center" alt="Erick-Express" height="40" width="40" src="https://skillicons.dev/icons?i=express"/>
@@ -48,14 +49,14 @@ const erick: Record<string, string | string[]> = {
   <img align="center" alt="Erick-Firebase" height="40" width="40" src="https://skillicons.dev/icons?i=firebase"/>
   <img align="center" alt="Erick-MySql" height="40" width="40" src="https://skillicons.dev/icons?i=mysql"/>
   <img align="center" alt="Erick-PostgreSql" height="40" width="40" src="https://skillicons.dev/icons?i=postgresql"/>
-   <img align="center" alt="Erick-MongoDb" height="40" width="40" src="https://skillicons.dev/icons?i=mongodb"/>
+  <img align="center" alt="Erick-MongoDb" height="40" width="40" src="https://skillicons.dev/icons?i=mongodb"/>
   <img align="center" alt="Erick-Docker" height="40" width="40" src="https://skillicons.dev/icons?i=docker" />
   <img align="center" alt="Erick-Prometheus" height="40" width="40" src="https://skillicons.dev/icons?i=prometheus" />
   <img align="center" alt="Erick-GitLab" height="40" width="40"  src="https://skillicons.dev/icons?i=gitlab"/>
   <img align="center" alt="Erick-AWS" height="40" width="40" src="https://skillicons.dev/icons?i=aws"/>
   <img align="center" alt="Erick-Vercel" height="40" width="40" src="https://skillicons.dev/icons?i=vercel"/>
   <img align="center" alt="Erick-VisualStudioCode" height="40" width="40" src="https://skillicons.dev/icons?i=vscode"/>
-   <img align="center" alt="Erick-VisualStudioCode" height="40" width="40" src="https://skillicons.dev/icons?i=linux"/>
+  <img align="center" alt="Erick-VisualStudioCode" height="40" width="40" src="https://skillicons.dev/icons?i=linux"/>
  </div>
 </div>
 </details>
