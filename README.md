@@ -11,8 +11,8 @@ About me:
 const erick: Record<string, string | string[]> = {
   age: "19 years",
   work: "A fullStack Software Engineer at BrBit Sistemas",
-  reading: ["Mastering Bitcoin", "Microservices Patterns"],
-  learning: ["blockchain"],
+  reading: ["Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond"],
+  learning: ["bitcoin"],
   education: ["Computer technician", "Studying information systems"],
   mainLanguages: ["Typescript" , "Javascript", "Rust", "C#", "Go"]
 };
