@@ -1,7 +1,7 @@
 <samp>
 
 
-## Hi, I'm Erick Cestari, a Full Stack Software Engineer
+## Hi, I'm Erick Cestari, a Software Engineer
 
 
 About me:
@@ -10,7 +10,7 @@ About me:
 ```TS
 const erick: Record<string, string | string[]> = {
   age: "19 years",
-  work: "A fullStack Software Engineer at BrBit Sistemas",
+  work: "A Software Engineer at BrBit Sistemas",
   reading: ["Introduction To Computing Systems: From Bits & Gates To C/C++ & Beyond"],
   learning: ["bitcoin"],
   education: ["Computer technician", "Studying information systems"],
