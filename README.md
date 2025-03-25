@@ -3,8 +3,9 @@
 
 ## Hi, I'm Erick Cestari, a Bitcoin Open Source Developer
 
-
 About me:
+<h3>
+  
 ```TS
 const erick: Record<string, string | string[]> = {
   age: "20 years",
@@ -15,6 +16,5 @@ const erick: Record<string, string | string[]> = {
   mainLanguages: ["Typescript" , "Javascript", "Rust", "C#", "Go"]
 };
 ```
-<br>
-
+</h3>
 <samp>
