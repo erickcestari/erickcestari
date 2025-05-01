@@ -1,10 +1,4 @@
 <samp>
-
-
-## Hi, I'm Erick Cestari, a Bitcoin Open Source Developer
-
-
-About me:
 <h3>
   
 ```Rust
