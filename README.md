@@ -7,15 +7,25 @@
 About me:
 <h3>
   
-```TS
-const erick: Record<string, string | string[]> = {
-  age: "20 years",
-  work: "Bitcoin Open Source Developer, Vinteum Fellow",
-  reading: ["Mastering the Lightning Network"],
-  learning: ["bitcoin"],
-  education: ["Computer technician", "Studying information systems"],
-  mainLanguages: ["Typescript" , "Javascript", "Rust", "C#", "Go"]
-};
+```Rust
+// Erick - Bitcoin Developer
+struct Dev {
+    age: &'static str,
+    work: &'static str,
+    learning: Vec<&'static str>,
+    tech_stack: Vec<&'static str>,
+}
+
+fn main() {
+    let erick = Dev {
+        age: "20",
+        work: "Bitcoin Open Source Developer, Vinteum Fellow",
+        learning: vec!["bitcoin", "Lightning Network"],
+        tech_stack: vec!["Rust", "TypeScript", "JavaScript", "Go", "C#"],
+    };
+    
+    // Building the future of Bitcoin...
+}
 ```
 </h3>
 <br>
