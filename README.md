@@ -13,7 +13,7 @@ struct Dev {
 fn main() {
     let erick = Dev {
         age: "20",
-        work: "Bitcoin Open Source Developer, Vinteum Fellow",
+        work: "Bitcoin Open Source Developer, Vinteum Grantee",
         learning: vec!["bitcoin", "Lightning Network"],
         tech_stack: vec!["Rust", "TypeScript", "JavaScript", "Go", "C#"],
     };
