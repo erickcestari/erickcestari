@@ -1,6 +1,6 @@
-<h3 align="center">
+<h2 align="center">
   bitcoin security researcher
-</h3>
+</h2>
 <p align="center">
   <samp>
     <a href="https://erickcestari.dev/">me</a> .
