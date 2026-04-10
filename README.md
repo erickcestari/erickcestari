@@ -1,6 +1,6 @@
-<h1 align="center">
-  bitcoin open source developer
-</h1>
+<h3 align="center">
+  bitcoin security researcher
+</h3>
 <p align="center">
   <samp>
     <a href="https://erickcestari.dev/">me</a> .
